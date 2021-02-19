@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
-![Aravinth GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthraaj&hide=contribs,prs)
+###Stats
+![Aravinth GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthraaj&hide=contribs,prs&theme=radical)
 <hr />
 
 
