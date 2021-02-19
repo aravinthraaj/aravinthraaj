@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <img align="left" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <br />
 <br />
+
+
+![Aravinth GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthraaj&hide=contribs,prs)
 <hr />
 
 
