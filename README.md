@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+# I am Aravinth Raaj
+### Web Developer & Machine Learning Enthusiast 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
