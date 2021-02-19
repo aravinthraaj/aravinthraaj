@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <br />
 
 ###Stats
+<details>
 ![Aravinth GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthraaj&hide=contribs,prs&theme=radical)
+  </details>
 <hr />
 
 
