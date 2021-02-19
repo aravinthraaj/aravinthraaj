@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Twitch" width="22px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />][twitch]
+
 
 <br />
 
@@ -41,3 +42,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 <hr />
+
+
+
+[facebook]:https://www.facebook.com/aravinthraajk/
+[linkedin]:https://www.linkedin.com/in/aravinth-raaj-k-360324111/
+[twitter]:https://twitter.com/aravinth_raaj
+[instagram]:https://www.instagram.com/aravinthraajk/
+[twitch]:https://www.twitch.tv/knightastron
