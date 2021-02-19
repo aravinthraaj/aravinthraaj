@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...(｡-‿-｡)
-- ![Anime Logo](/images/logo.png)
+- ⚡ Fun fact: <img align="left" alt="Facebook" width="12px" src="Anime.png" />
+- 
 
 ### Connect with me:
 
