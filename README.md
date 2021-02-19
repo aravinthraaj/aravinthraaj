@@ -44,6 +44,26 @@ Here are some ideas to get you started:
 
 <hr />
 
+
+### Tools and other stuff
+
+<img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
+<img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="airtable" width="35px" src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" />
+<img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
+<img align="left" alt="Apollo" width="35px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" />
+<img align="left" alt="auth0" width="35px" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" />
+<img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+<img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
+<br />
+<br />
+<hr />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
     <img align="left" alt="Aravinth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aravinthraaj&hide=contribs,prs&theme=radical" />
