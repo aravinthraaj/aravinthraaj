@@ -1,4 +1,4 @@
-<p align="center">[<addr><img alt="logo" width="100px" src="luffy.gif" />](https://www.crunchyroll.com/)</p>
+<p align="center"><img alt="logo" width="100px" src="luffy.gif" /></p>
   <p align="center">### Hi there 👋</p>
 
 
