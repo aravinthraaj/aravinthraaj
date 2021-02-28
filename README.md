@@ -1,5 +1,6 @@
-[<addr><img align="center" alt="logo" width="100px" src="luffy.gif" />](https://www.crunchyroll.com/)
-### Hi there 👋
+<p align="center">[<addr><img alt="logo" width="100px" src="luffy.gif" />](https://www.crunchyroll.com/)</p>
+  <p align="center">### Hi there 👋</p>
+
 
 # I am Aravinth Raaj
 ### Frontend Web Developer & Machine Learning Enthusiast 
