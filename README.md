@@ -1,4 +1,4 @@
-[<addr><img align="centre" alt="logo" width="18px" src="anime.png" />](https://www.crunchyroll.com/)
+[<addr><img align="center" alt="logo" width="100px" src="luffy.gif" />](https://www.crunchyroll.com/)
 ### Hi there 👋
 
 # I am Aravinth Raaj
