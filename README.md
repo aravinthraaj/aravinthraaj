@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 # I am Aravinth Raaj
-### Web Developer & Machine Learning Enthusiast 
-Here are some ideas to get you started:
+### Frontend Web Developer & Machine Learning Enthusiast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: <addr><img alt="logo" width="18px" src="anime.png" />
+##### A diligent, skilled and creative Web developer with goals to collaborate with other creative individuals to produce Web applications using the latest software technologies. Ambitious and always excited to work on new projects and other challenging opportunities
+
+- 🔭 I’m currently working on some crazy projects
+- 🌱 Always intendet to learn new technologies
+- 👯 I’m looking to collaborate with creative individuals  
+- 📫 How to reach me: aravinthraajk@gmail.com
+- ⚡ Fun fact: I love Anime <addr><img alt="logo" width="18px" src="anime.png" /> and Video Games 
 
 ### Connect with me:
 
