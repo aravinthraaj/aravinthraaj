@@ -1,6 +1,6 @@
 <p align="center"><img alt="logo" width="500px" src="luffy.gif" /></p>
-##                                                                         Hey there 👋
-  <p align="center" style="font-size:30px">Hey there 👋</p>
+## Hey there 👋
+  <p align="center">Hey there 👋</p>
 
 
 # I am Aravinth Raaj
