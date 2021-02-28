@@ -6,7 +6,7 @@
 ##### A diligent, skilled and creative Web developer with goals to collaborate with other creative individuals to produce Web applications using the latest software technologies. Ambitious and always excited to work on new projects and other challenging opportunities
 
 - 🔭 I’m currently working on some crazy projects
-- 🌱 Always intendet to learn new technologies
+- 🌱 Always curious to learn new technologies
 - 👯 I’m looking to collaborate with creative individuals  
 - 📫 How to reach me: aravinthraajk@gmail.com
 - ⚡ Fun fact: I love Anime <addr><img alt="logo" width="18px" src="anime.png" /> and Video Games 
