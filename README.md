@@ -9,7 +9,7 @@
 - 🌱 Always curious to learn new technologies
 - 👯 I’m looking to collaborate with creative individuals  
 - 📫 How to reach me: aravinthraajk@gmail.com
-- ⚡ Fun fact: I love Anime <addr><img alt="logo" width="18px" src="anime.png" /> and Video Games 
+- ⚡ Fun fact: I love Anime [<addr><img alt="logo" width="18px" src="anime.png" />](https://www.crunchyroll.com/) and Video Games 
 
 ### Connect with me:
 
